@@ -1,0 +1,10 @@
+author: Keiaxx
+main: net.keiaxx.kclivestream.Main
+name: KCLiveStream
+startup: startup
+version: '1.0'
+commands:
+  stream:
+    description: View a specified users stream url!
+    usage: Syntax /stream <Channel>
+
